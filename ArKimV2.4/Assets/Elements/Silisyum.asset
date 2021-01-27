@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: Silisyum
+  m_EditorClassIdentifier: Assembly-CSharp::ElemenClass
+  elektronCaunt: 14
+  lastLayer: 4
+  elementName: Silisyum
+  symbol: Si
+  elementType: "Yar\u0131 Metal"
+  group: 4A
+  information: "Silisyumun ilk ke\u015Ffi 1824 y\u0131l\u0131nda Berzelius tarafindan
+    ger\xE7ekle\u015Ftirilmi\u015Ftir, yery\xFCz\xFCnde en \xE7ok bulunan elementlerden
+    bir tanesidir. Koyu gri renkli kat\u0131 bir maddedir. "
+  elementMaterial: {fileID: 2100000, guid: f03d9247488d047c29f4604ce527e69c, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: ffad1b9df550242b583e69cc18413fe5, type: 3}
+  cardImageBack: {fileID: 21300000, guid: dc9f4565c88a04032b82bf6042821890, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

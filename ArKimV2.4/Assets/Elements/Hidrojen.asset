@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: Hidrojen
+  m_EditorClassIdentifier: 
+  elektronCaunt: 1
+  lastLayer: 1
+  elementName: Hidrojen
+  symbol: H
+  elementType: Ametal
+  group: 1A
+  information: "Hidrojen ilk olarak 1776 y\u0131l\u0131nda Henry Cavendish taraf\u0131ndan
+    ke\u015Ffedilmi\u015Ftir. Hidrojen ismi ise Antoine Lavoisier taraf\u0131ndan
+    verilmi\u015Ftir. Do\u011Fada gaz h\xE2lde bulunur. Renksiz bir gazd\u0131r."
+  elementMaterial: {fileID: 2100000, guid: f7a6433fa4aee46eaa822868bd091d6d, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: 6a0521c0f9f3c4c55aaff46d8a8d2216, type: 3}
+  cardImageBack: {fileID: 21300000, guid: c96df29f56d684ae0b1e157248c96afe, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

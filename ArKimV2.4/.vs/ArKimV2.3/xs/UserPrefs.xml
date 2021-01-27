@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8C118CAA-7720-8A2D-D0B3-A475F6CDE5DD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Maneger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="125" Column="143" />
+      <File FileName="Assets/Scripts/ElementClass.cs" Line="12" Column="26" />
+      <File FileName="Assets/Scripts/CompoundClass.cs" Line="16" Column="36" />
+      <File FileName="Assets/Scripts/Maneger.cs" Line="164" Column="20" />
+      <File FileName="Assets/Scripts/ElementsBehavior.cs" Line="16" Column="8" />
+      <File FileName="Assets/Scripts/CardBehavior.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/BackSprite.cs" Line="30" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1fc060e-896d-4e4f-b8d9-9a2dd276dad8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

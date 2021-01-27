@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BugdayKart-Renkli" size="1.000000 1.485182" />
+    <ImageTarget name="BugdayKart" size="1.000000 1.485182" />
+    <ImageTarget name="Un" size="1.000000 1.485182" />
+    <ImageTarget name="Tugla" size="1.000000 1.485182" />
+    <ImageTarget name="Toz" size="1.000000 1.485182" />
+    <ImageTarget name="Tohum" size="1.000000 1.485182" />
+    <ImageTarget name="Tas" size="1.000000 1.485182" />
+    <ImageTarget name="Meyve" size="1.000000 1.485182" />
+    <ImageTarget name="Metal" size="1.000000 1.484554" />
+    <ImageTarget name="Lav" size="1.000000 1.485182" />
+    <ImageTarget name="Kum" size="1.000000 1.485182" />
+    <ImageTarget name="Kil" size="1.000000 1.485811" />
+    <ImageTarget name="Hamur" size="1.000000 1.484554" />
+    <ImageTarget name="EnvanterKart" size="1.000000 1.444026" />
+    <ImageTarget name="Enerji" size="1.000000 1.485182" />
+    <ImageTarget name="ElAletleriKart" size="1.000000 1.485182" />
+    <ImageTarget name="Ekmek" size="1.000000 1.485182" />
+    <ImageTarget name="Buhar" size="1.000000 1.485182" />
+    <ImageTarget name="Bataklik" size="1.000000 1.485182" />
+    <ImageTarget name="BakteriKart" size="1.000000 1.485182" />
+    <ImageTarget name="Ates1" size="1.000000 1.485182" />
+    <ImageTarget name="Agac" size="1.000000 1.485182" />
+    <ImageTarget name="Toprak" size="1.000000 1.485182" />
+    <ImageTarget name="Su" size="1.000000 1.485182" />
+    <ImageTarget name="Hava" size="1.000000 1.485182" />
+    <ImageTarget name="Ates" size="1.000000 1.443086" />
+    <ImageTarget name="AR" size="1.000000 1.444026" />
+  </Tracking>
+</QCARConfig>

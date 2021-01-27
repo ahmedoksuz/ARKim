@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc9bf1d81f674b70a59ad5d95bd9c26, type: 3}
+  m_Name: KOH
+  m_EditorClassIdentifier: 
+  compoundName: Potasyum Hidroksit
+  symbol: KOH
+  information: 
+  components:
+  - {fileID: 11400000, guid: 105dd62eafee54fefb86006d6bbba11c, type: 2}
+  - {fileID: 11400000, guid: db53310b12e3f453baaa3285d8f322f5, type: 2}
+  - {fileID: 11400000, guid: d6c7e84c1ce5342d2b5b175f0c0fb877, type: 2}
+  cardImageFront: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}
+  cardImageBack: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}
+  compundModel: {fileID: 919132149155446097, guid: df2b8e71c388c4dd29f2e91f7c84aade,
+    type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: Oksijen
+  m_EditorClassIdentifier: 
+  elektronCaunt: 8
+  lastLayer: 6
+  elementName: Oksijen
+  symbol: O
+  elementType: Ametal
+  group: 6A
+  information: "Oksijen ilk defa 1774 y\u0131l\u0131nda Joseph Priestly tarafindan
+    elde edildi. 1781 y\u0131l\u0131nda Lavoisier, oksijenin havada bulunan ve yanmaya
+    etki eden bir madde oldu\u011Funu bildirdi. Renksiz bir gazd\u0131r."
+  elementMaterial: {fileID: 2100000, guid: 34e4e2326a04c4aa3831a24353de0fc2, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: 2a1da560b50824009b904a5689f9015f, type: 3}
+  cardImageBack: {fileID: 21300000, guid: bf2347c6ef10f44c5aa6475c7f89a68d, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

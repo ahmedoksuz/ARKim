@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DA5C4920-5B0A-70CC-EF7E-BD343B8A5021}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Maneger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Maneger.cs" Line="185" Column="1" />
+      <File FileName="Assets/Scripts/ButtonScript.cs" Line="232" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1fc060e-896d-4e4f-b8d9-9a2dd276dad8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: Helyum
+  m_EditorClassIdentifier: 
+  elektronCaunt: 2
+  lastLayer: 2
+  elementName: Helyum
+  symbol: He
+  elementType: Soygaz
+  group: 8A
+  information: "1868 y\u0131l\u0131nda Frans\u0131z Pierre Janssen ve ingiliz Norman
+    Lockyer birbirinden ba\u011F\u0131ms\u0131z olarak helyumu ke\u015Ffettiler.
+    Helyum atmosferde \xE7ok az miktarda bulunmaktad\u0131r. G\xFCne\u015Fte ve di\u011Fer
+    y\u0131ld\u0131zlarda bol miktarda bulunur. Do\u011Fada gaz h\xE2lde bulunan
+    renksiz bir gazd\u0131r."
+  elementMaterial: {fileID: 2100000, guid: 7c65185d8e9cc420da3a1893c05d64f3, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: d58c992dce2a04018a51c978610732eb, type: 3}
+  cardImageBack: {fileID: 21300000, guid: 09b1f9c3a7d5340be8661ddc5706aedb, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

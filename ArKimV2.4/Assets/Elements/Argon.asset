@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: Argon
+  m_EditorClassIdentifier: Assembly-CSharp::ElemenClass
+  elektronCaunt: 18
+  lastLayer: 8
+  elementName: Argon
+  symbol: Ar
+  elementType: Soygaz
+  group: 8A
+  information: "1785 y\u0131l\u0131nda havada argon oldu\u011Fu ilk defa Henry Cavendish
+    tarafindan iddia edilmi\u015F ve 1894 y\u0131l\u0131nda Lord Rayleigh ve VVilliam
+    Ramsay tarafindan ke\u015Ffedilmi\u015Ftir. Gaz ve s\u0131v\u0131 h\xE2lde bulunabilir.
+    Kokusuz ve renksiz bir gazd\u0131r."
+  elementMaterial: {fileID: 2100000, guid: 0dde1d562b8ff4ba58659157340755b6, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: da1db04bf44b14670ba2f92e8a46ef84, type: 3}
+  cardImageBack: {fileID: 21300000, guid: 174748a66ec6d4710b62dfe6d025734e, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

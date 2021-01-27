@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: Potasyum
+  m_EditorClassIdentifier: Assembly-CSharp::ElemenClass
+  elektronCaunt: 19
+  lastLayer: 1
+  elementName: Potasyum
+  symbol: K
+  elementType: Metal
+  group: 1A
+  information: "G\xFCm\xFC\u015F\xFCrns\xFC beyaz renkte bir kat\u0131 maddedir.
+    \u0130lk olarak 1807 y\u0131l\u0131nda Humphrey Davy tarafindan elde edilmi\u015Ftir."
+  elementMaterial: {fileID: 2100000, guid: 7e714db517c0549b9ba7903a8853e75c, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: 9edae1eab71d64c4aa15443c970a4e81, type: 3}
+  cardImageBack: {fileID: 21300000, guid: f39d113444a21457b9cf6b13960d992d, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

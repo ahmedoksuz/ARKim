@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: "Ku\u0308ku\u0308rt"
+  m_EditorClassIdentifier: Assembly-CSharp::ElemenClass
+  elektronCaunt: 16
+  lastLayer: 6
+  elementName: "K\xFCk\xFCrt"
+  symbol: S
+  elementType: Ametal
+  group: 6A
+  information: "K\xFCk\xFCrt, antik \xE7a\u011Fda bilinen dokuz cisimden biriydi.
+    K\xFCk\xFCrd\xFCn kimyasal bir element oldu\u011Funu 1777'de Lavoisier ortaya
+    att\u0131. 1810 y\u0131llar\u0131nda Gay Lussac ile Thenard tarafindan deneysel
+    olarak do\u011Fruland\u0131. San renkli, tats\u0131z, kokusuz kat\u0131 bir maddedir.
+    Is\u0131 ve elektri\u011Fi iyi iletmez."
+  elementMaterial: {fileID: 2100000, guid: 43323bbce445c434c8b88907413c1f8e, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: 15afa1101dbe544cf9250304b4e09360, type: 3}
+  cardImageBack: {fileID: 21300000, guid: 55db94541ea3f434ba33e6eac8db2b47, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

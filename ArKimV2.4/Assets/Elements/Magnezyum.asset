@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ed2d73d1f1f84b1a953726b373cfeb5, type: 3}
+  m_Name: Magnezyum
+  m_EditorClassIdentifier: Assembly-CSharp::ElemenClass
+  elektronCaunt: 12
+  lastLayer: 2
+  elementName: Magnezyum
+  symbol: Mg
+  elementType: Metal
+  group: 2A
+  information: "1755 y\u0131l\u0131nda \u0130ngiltere Joseph Black tarafindan ilk
+    olarak ke\u015Ffedilmi\u015Ftir. G\xFCm\xFC\u015F\xFCrns\xFC beyaz renkli bir
+    kat\u0131d\u0131r."
+  elementMaterial: {fileID: 2100000, guid: b8eaa58a2f06541f3973845980fb55ed, type: 2}
+  elektronMaterial: {fileID: 2100000, guid: 0186c87cd8aea486794fa5d706fa2b1e, type: 2}
+  cardImageFront: {fileID: 21300000, guid: 7360832a2735b4937b7bc83ac118187e, type: 3}
+  cardImageBack: {fileID: 21300000, guid: c42d9eebf4c5847af917153bfd07a39e, type: 3}
+  defaultImage: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}

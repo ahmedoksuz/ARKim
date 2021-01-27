@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbc9bf1d81f674b70a59ad5d95bd9c26, type: 3}
+  m_Name: HNC
+  m_EditorClassIdentifier: 
+  compoundName: Hidrosiyanik Asit
+  symbol: HNC
+  information: 
+  components:
+  - {fileID: 11400000, guid: d6c7e84c1ce5342d2b5b175f0c0fb877, type: 2}
+  - {fileID: 11400000, guid: 0e0b9b8073f0a410eb2ba3e847fa0326, type: 2}
+  - {fileID: 11400000, guid: 37d0fee73736f46038bdb72b8aefa67b, type: 2}
+  cardImageFront: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}
+  cardImageBack: {fileID: 21300000, guid: 4641a85c22c524b2187092c52dd3198c, type: 3}
+  compundModel: {fileID: 919132149155446097, guid: ec5dcfb783ce54b9daa4fb906df56a41,
+    type: 3}
